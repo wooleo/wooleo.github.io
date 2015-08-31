@@ -1,4 +1,4 @@
-# Carte Noire
+# Step by Step
 
 A simple Jekyll theme for blogging. Not named after the coffee.
 
